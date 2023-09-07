@@ -1,3 +1,4 @@
+# Live website link: [QR code](https://aryan0jain.github.io/qr-code-component/)
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
